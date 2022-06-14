@@ -4,10 +4,10 @@ import com.fzolv.lld.TicTacToe.engine.TicTacToeEngine;
 import com.fzolv.lld.TicTacToe.factory.GridFactory;
 import com.fzolv.lld.TicTacToe.model.Game;
 import com.fzolv.lld.TicTacToe.model.Grid;
-import jakarta.annotation.PostConstruct;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
+import javax.annotation.PostConstruct;
 import java.util.HashMap;
 import java.util.Map;
 

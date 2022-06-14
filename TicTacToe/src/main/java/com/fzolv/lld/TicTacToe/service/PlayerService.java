@@ -1,9 +1,9 @@
 package com.fzolv.lld.TicTacToe.service;
 
 import com.fzolv.lld.TicTacToe.model.Player;
-import jakarta.annotation.PostConstruct;
 import org.springframework.stereotype.Service;
 
+import javax.annotation.PostConstruct;
 import java.util.HashMap;
 import java.util.Map;
 
